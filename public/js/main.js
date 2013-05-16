@@ -4,7 +4,8 @@ requirejs.config({
 		underscore:'/lib/underscore-min',
 		backbone:'/lib/backbone',
 		templates:'/templates',
-		text:'/lib/text'
+		text:'/lib/text',
+		typeahead:'/lib/typeahead'
 	},
     shim: {
         'underscore': {
